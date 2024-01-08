@@ -1,2 +1,2 @@
-Here is some good text,
+Here is some good and terrible text
 in myfile.txt!!
